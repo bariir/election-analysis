@@ -38,10 +38,12 @@ The analysis of the election show that:
 - The winner of the election was:
   - Diana DeGette who received 73.8% of the votes and 272,892 number of votes.
   
-- Election Result Image:
-![Candidates_and_Winner_Election_Results](/Resources/Candidates_and_Winner_Election_Results.png)
+- Candidate Election Results Image:
+![Candidate Election Results](/Resources/Candidates_and_Winner_Election_Results.png)
   
-  
+- County Election Results Image.  
+![County Election Results](/Resources/County_Votes_Election_Results.png)
+
  ## Election-Audit Summary:
 The code in PyPoll for the election audit can be used in different use case with little changes. Two uses are as follows.
 - The code can be used to audit in more than 3 counties with multiple candidates.
