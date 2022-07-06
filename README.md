@@ -1,6 +1,6 @@
 # election-analysis
 
-## Project Overview
+## Overview of Election Audit
 A Colorado Board of Elections employee Seth has asked me to provide election audit and analysis on a recent local congressional election. The ask was to provide the following.
 
 1. Calculate the total number of votes cast.
@@ -17,6 +17,14 @@ A Colorado Board of Elections employee Seth has asked me to provide election aud
 ## Finding
 The analysis of the election show that:
 - Total votes cast were 369,711
+
+- Counties names, percentage of votes cast and number of votes cast in each county.:
+  - Jefferson county had 10.5% and 38,855 number of votes casted
+  - Denver county had 82.8% and 306, 055 number of votes casted.
+  - Arapahoe had 6.7% and 24,801 number of votes casted.
+  
+- Largest County Turnout was Denver.
+  
 - There were three candidates:
   - Charles Casper Stockham
   - Diana DeGette
@@ -29,6 +37,15 @@ The analysis of the election show that:
   
 - The winner of the election was:
   - Diana DeGette who received 73.8% of the votes and 272,892 number of votes.
+  
+  
+ ## Election-Audit Summary:
+The code in PyPoll for the election audit can be used in different use case with little changes. Two uses are as follows.
+- The code can be used to audit in more than 3 counties with multiple candidates.
+- The code can be used in different counties in different states with minor changes.
+
+  
+
   
   
 
